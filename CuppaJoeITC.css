@@ -1,0 +1,7 @@
+/* https://fontsgeek.com/cuppa-joe-itc-std-font */
+
+* {
+    font-family: "Cuppa Joe ITC Std", sans-serif !important;
+    font-style: italic !important;
+    letter-spacing: 2px !important;
+}
