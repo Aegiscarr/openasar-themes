@@ -3,3 +3,7 @@
 * {
     font-family: 'WhitneyBook', sans-serif !important;
 }
+
+code {
+    font-family: Consolas !important;
+}

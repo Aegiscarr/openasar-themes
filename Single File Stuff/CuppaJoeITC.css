@@ -5,3 +5,7 @@
     font-style: italic !important;
     letter-spacing: 2px !important;
 }
+
+code {
+    font-family: Consolas !important;
+}

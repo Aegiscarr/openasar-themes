@@ -3,3 +3,7 @@
 * {
     font-family: 'Whitney Semibold', sans-serif !important;
 }
+
+code {
+    font-family: Consolas !important;
+}
